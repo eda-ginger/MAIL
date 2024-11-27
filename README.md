@@ -42,4 +42,4 @@ Please submit a GitHub issue or contact me [rudwls2717@pusan.ac.kr](rudwls2717@p
 ## Acknowledgements
 Thank you for our [Laboratory](https://www.k-medai.com/).
 
-If you find this code useful, please consider citing my work.
+If you find this code useful, please consider citing our work.
