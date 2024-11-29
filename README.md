@@ -10,12 +10,15 @@ Gyoung Jin Park,  Youngbin Cho, Minji Suh
 conda create -n mail python=3.12 -y
 conda activate mail
 
-pip install notebook networkx matplotlib tqdm
-pip install rdkit deepchem py3dmol transformers tensorflow
-
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 pip install torch_geometric 
 pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
+
+pip install rdkit deepchem py3dmol  
+pip install matplotlib tqdm jupyter
+#pip install tensorflow transformers rdkit deepchem py3dmol  
+#pip install matplotlib tqdm jupyter
+
 ```
 
 ---
