@@ -14,9 +14,10 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install torch_geometric 
 pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
 
-pip install rdkit deepchem py3dmol  
+pip install rdkit deepchem py3Dmol
 pip install matplotlib tqdm jupyter
-#pip install tensorflow transformers rdkit deepchem py3dmol  
+
+#pip install tensorflow transformers rdkit deepchem py3Dmol  
 #pip install matplotlib tqdm jupyter
 
 ```
