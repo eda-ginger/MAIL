@@ -2,7 +2,7 @@
 
 ### Molecule AI Lab
 
-Gyoung Jin Park,  Youngbin Cho, Minji Suh
+Gyoung Jin Park,  Youngbin Cho, Minji Suh, Sunyoung Kwon
 
 ## Installation
 
