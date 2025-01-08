@@ -493,6 +493,7 @@ dmypy.json
 # data
 .data/
 DrugBank/clean_smi
+utils/all*.csv
 *dataset/
 *.png
 *.html

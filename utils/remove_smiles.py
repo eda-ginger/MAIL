@@ -78,8 +78,8 @@ def process_smiles_data(folder_path, utils_path):
         utils_dir.mkdir(parents=True, exist_ok=True)
 
         # 결과 저장
-        total.to_csv(folder / 'all_pairs.csv', index=False, header=True)
-        drugs.to_csv(folder / 'all_smiles.csv', index=False, header=True)
+        total.to_csv(utils_dir / 'all_pairs.csv', index=False, header=True)
+        drugs.to_csv(utils_dir / 'all_smiles.csv', index=False, header=True)
 
         # train/valid/test 파일은 folder_path의 clean_smi 폴더에 저장
         total[total['split'] == 'train'].to_csv(new_fd / 'train.csv', index=False, header=True)
