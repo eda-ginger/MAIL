@@ -492,7 +492,10 @@ dmypy.json
 
 # data
 .data/
+DrugBank/clean_smi
 *dataset/
 *.png
 *.html
 best_epoch.pth
+best_model.pth
+Results.csv
