@@ -492,4 +492,7 @@ dmypy.json
 
 # data
 .data/
+*dataset/
+*.png
 *.html
+best_epoch.pth
