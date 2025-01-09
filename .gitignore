@@ -495,7 +495,7 @@ dmypy.json
 DrugBank/clean_smi
 utils/all*.csv
 *dataset/
-*.png
+*molecule*.png
 *.html
 best_epoch.pth
 best_model.pth
